@@ -1,0 +1,6 @@
+D:\Indeed2\Phase-3\Practice Project\Sec-2\School\School\bin\Debug\School.dll
+D:\Indeed2\Phase-3\Practice Project\Sec-2\School\School\bin\Debug\School.pdb
+D:\Indeed2\Phase-3\Practice Project\Sec-2\School\School\obj\Debug\School.csproj.AssemblyReference.cache
+D:\Indeed2\Phase-3\Practice Project\Sec-2\School\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+D:\Indeed2\Phase-3\Practice Project\Sec-2\School\School\obj\Debug\School.dll
+D:\Indeed2\Phase-3\Practice Project\Sec-2\School\School\obj\Debug\School.pdb
